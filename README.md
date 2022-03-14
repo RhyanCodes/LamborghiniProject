@@ -6,7 +6,7 @@ A website where you can order custom Lamborghini vehicles.
   4. Flask-Sqlalchemy was also used for connection with PostgreSql.
 
 # Start Project Locally
-First, make sure to install the latest version of Python and PostgreSQL. Then, create a project folder and name it whatever you like. Create a folder within the project folder called ```templates``` and another folder called ```static```. Import all HTML files into the ```templates``` folder and import all of the CSS, MP4, and PNG files into the ```static``` folder. Next, open Command Prompt(or Terminal) and ```cd``` into the project folder. 
+First, make sure to install the latest version of Python and PostgreSQL. Then, create a project folder and name it whatever you like. Import ```app.py``` into the folder. Create a folder within the project folder called ```templates``` and another folder called ```static```. Import all HTML files into the ```templates``` folder and import all of the CSS, MP4, and PNG files into the ```static``` folder. Next, open Command Prompt(or Terminal) and ```cd``` into the project folder. 
 
 To start and run locally:
   1. Install Virtual Environment under the project folder in the command prompt(terminal)
