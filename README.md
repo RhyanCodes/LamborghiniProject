@@ -23,7 +23,7 @@ To start and run locally:
   ``` 
   C:\Users\aj\projectfolder>virtual\Scripts\activate
   ```
-  4. Under the projecct folder, install Flask. 
+  4. Under the project folder, install Flask. 
   ```
   (virtual) C:\Users\aj\projectfolder>pip install flask
   ```
